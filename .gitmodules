@@ -1,0 +1,9 @@
+[submodule "Plugin/TwitterBootstrap"]
+	path = Plugin/TwitterBootstrap
+	url = https://github.com/stvvt/TwitterBootstrap.git
+[submodule "Plugin/debug_kit"]
+	path = Plugin/debug_kit
+	url = https://github.com/cakephp/debug_kit.git
+[submodule "Plugin/Migrations"]
+	path = Plugin/Migrations
+	url = https://github.com/CakeDC/migrations.git
